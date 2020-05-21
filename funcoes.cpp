@@ -12,3 +12,7 @@ float multiplicacao (float x, float y){
 float divisao (float x, float y){
 	return x / y;
 }
+
+float subtracao (float x, float y){
+	return x - y;
+}
